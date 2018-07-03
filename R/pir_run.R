@@ -1,6 +1,6 @@
 #' Creates a posterior from the phylogeny
 #' @param phylogeny a phylogeny
-#' @param sequence_length the number of basepair the simulated DNA
+#' @param sequence_length the number of basepairs the simulated DNA
 #'   alignment consists of
 #' @param mutation_rate the mutation rate per base pair per time unit
 #' @param mcmc MCMC options, as created by \link[beautier]{create_mcmc}
