@@ -12,7 +12,7 @@
 #'   as created by \link[beautier]{create_site_model}
 #' @param clock_models one or more clock models,
 #'   as created by \link[beautier]{create_clock_model}
-#' @param tree_priors one or more tree prios,
+#' @param tree_priors one or more tree priors,
 #'   as created by \link[beautier]{create_tree_prior}
 #' @param alignment_rng_seed The random number generator seed used
 #'   to generate an alignment
